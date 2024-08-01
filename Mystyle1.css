@@ -1,0 +1,30 @@
+body,h1, h2, p, ul, li {
+    margin:0;
+    padding:0;
+}
+body {
+    font-family:'Franklin Gothic Medium';
+}
+header {
+    background-color: mistyrose;
+    color:black;
+    padding:20px;
+}
+header{
+    margin: 5;
+}    
+
+nav ,ul{
+    list-style-type: disc;
+}
+nav ,ul, li {
+    display: inline;
+    margin-right: 20px;
+}
+nav ,ul, li,a{
+    color: #9b1107;
+    text-decoration: dotted;
+}
+section{
+    padding: 20px;
+}

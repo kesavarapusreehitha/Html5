@@ -1,0 +1,30 @@
+body,h1,h2,p,ul,li{
+    margin: 10px;
+    padding:0;
+}
+nav{
+    background-color: #070705;
+    color: white;
+    padding: 10px;
+}
+nav ul {
+    list-style-type: disc;
+    
+}
+nav ul li {
+    display: inline;
+    color: black;
+}
+nav ul li a{
+    color: rgb(232, 223, 223);
+    text-decoration: dotted;
+}
+nav ul li a:hover{
+    text-decoration: underline;
+}
+footer{
+    background-color: blueviolet;
+    color: aliceblue;
+    text-align: center;
+    padding:10px 0;
+}
